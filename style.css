@@ -1,0 +1,41 @@
+.droite{
+   float: right;
+   padding: 10px;
+}
+.gauche{
+   float: left;
+   padding: 10px;
+
+}
+.page{
+   width: 90%;
+   margin: 100px auto;
+   display: flex;
+   padding: 20px;
+   font-size: large;
+   background-color: whitesmoke;
+   justify-content: center;
+}
+h2{
+   text-align: center;
+   text-decoration: overline underline ;
+}
+h3{
+   text-decoration: underline black;
+   background-color: tomato;
+   text-align: center;
+   justify-content: 30pxpx;
+   justify-items: right;
+}
+h1{
+   text-align: center;
+   text-decoration: overline underline;
+}
+strong{
+   color: red;
+}
+.droite img{ width: 50%;
+   border-radius: 15px;
+   display: block;
+   margin-right: auto;
+}
